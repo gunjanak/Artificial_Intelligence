@@ -1,0 +1,2 @@
+animal(lion).
+carnivore(lion).
